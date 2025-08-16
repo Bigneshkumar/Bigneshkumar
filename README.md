@@ -47,7 +47,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigneshkumar&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)]
 
 ###
-<h4> Snake Animation of Repo.in git </h4>
+<h4> Animation of Repo.in Github </h4>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bigneshkumar/Bigneshkumar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bigneshkumar/Bigneshkumar/output/github-contribution-grid-snake.svg">
