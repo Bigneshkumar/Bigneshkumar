@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! I'm Bignesh Kumar and I'm a web developer, from Adamas University </h2>
+<h2 align="left">Hi 👋! I'm Bignesh Kumar And I'm a Web Developer, from Adamas University </h2>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](<div align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </dev>)](https://bignesh-kumar-portfolio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"logo=YouTube&logoColor=white width="40" height="40"/>)](https://bignesh-kumar-portfolio.vercel.app/)
 
 
 
@@ -41,7 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigneshkumar&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigneshkumar&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact)]
 
 ###
 
