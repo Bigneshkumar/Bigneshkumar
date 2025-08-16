@@ -40,16 +40,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bigneshkumar&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true&layout=compact) ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d306461792d417368697368267468656d653d726f73655f70696e6526686964655f](https://github.com/user-attachments/assets/6c9a1af4-21c8-485a-ac83-503a6ee4ca81)
+</div> ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d306461792d417368697368267468656d653d726f73655f70696e6526686964655f](https://github.com/user-attachments/assets/6c9a1af4-21c8-485a-ac83-503a6ee4ca81)
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://raw.githubusercontent.com/{Bigneshkumar}/{Bigneshkumar}/output/github-contribution-grid-snake-dark.svg)
 ###
 
 <!-- Proudly created by (Bignesh kumar) -->
