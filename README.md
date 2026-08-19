@@ -13,6 +13,12 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?logo=vercel&logoColor=white)](https://bigneshkumar-portfolio.vercel.app/)
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Bigneshkumar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Bigneshkumar" style="padding-right:20px;" />
+</p>
+
 ###
 # Skill Stack:
 
