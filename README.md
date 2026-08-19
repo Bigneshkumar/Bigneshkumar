@@ -1,7 +1,7 @@
-<!--Banner-->
+
 ![Bigneshkumar Banner Image](./banner.png)
 
-<!--Night Owl image-->
+
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?logo=vercel&logoColor=white)](https://bigneshkumar-portfolio.vercel.app/)
 
-<!--Profile Count Badge-->
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bigneshkumar&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Bigneshkumar" style="padding-right:20px;" />
 </p>
@@ -28,6 +28,28 @@
   <img src="https://streak-stats.demolab.com?user=Bigneshkumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Bigneshkumar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Bigneshkumar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Bigneshkumar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Bigneshkumar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Bigneshkumar&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/Bigneshkumar/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
+</p>
+<br />
+
 
 ###
 
