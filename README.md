@@ -1,3 +1,9 @@
+<!--Banner-->
+![Bigneshkumar Banner Image](./banner.png)
+
+
+
+
 <h2 align="left">Hi 👋! I'm Bignesh Kumar And I'm a Web Developer, from Adamas University </h2>
 
 
