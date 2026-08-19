@@ -2,7 +2,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](https://png.pngtree.com/png-vector/20190226/ourmid/pngtree-vector-portfolio-icon-png-image_705750.jpg)](https://bigneshkumar-portfolio.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?logo=vercel&logoColor=white)](https://bigneshkumar-portfolio.vercel.app/)
 ###
 # Skill Stack:
 
