@@ -7,9 +7,9 @@
 </div>
 
 <!-- RIGHT SIDE: SVG PORTRAIT -->
-<td width="45%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="./portrait.svg" alt="Bignesh Kumar" width="400"/>
+<img src="./portrait.svg" alt="Bignesh Kumar" width="350"/>
 
 </td>
 
