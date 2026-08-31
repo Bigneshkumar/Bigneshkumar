@@ -6,6 +6,16 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+
+<h2 align="left">Hi 👋! I'm Bignesh Kumar And I'm a Web Developer, from Adamas University </h2>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?logo=vercel&logoColor=white)](https://bigneshkumar-portfolio.vercel.app/)
+
+
+
+
 <!-- RIGHT SIDE: SVG PORTRAIT -->
 <td width="45%" align="center" valign="middle">
 
@@ -19,12 +29,6 @@
 </div>
 
 ---
-
-<h2 align="left">Hi 👋! I'm Bignesh Kumar And I'm a Web Developer, from Adamas University </h2>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_munda._?igsh=MThpZXU2ZGl3enMydw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bignesh-kumar-201558376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bignesh_singh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amateurgaming6299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bigneshkumar@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?logo=vercel&logoColor=white)](https://bigneshkumar-portfolio.vercel.app/)
 
 
 <p align="left">
