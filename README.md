@@ -6,8 +6,19 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<!-- RIGHT SIDE: SVG PORTRAIT -->
+<td width="45%" align="center" valign="middle">
 
+<img src="./portrait.svg" alt="Bignesh Kumar" width="420"/>
 
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 <h2 align="left">Hi 👋! I'm Bignesh Kumar And I'm a Web Developer, from Adamas University </h2>
 
